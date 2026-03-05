@@ -36,13 +36,3 @@ out/
 
 ### VS Code ###
 .vscode/
-/.gitattributes
-/.gitignore
-/build.gradle
-/gradle/wrapper/gradle-wrapper.jar
-/gradle/wrapper/gradle-wrapper.properties
-/gradlew
-/gradlew.bat
-/src/main/java/com/beyond/order_system/OrderSystemApplication.java
-/src/test/java/com/beyond/order_system/OrderSystemApplicationTests.java
-/settings.gradle
