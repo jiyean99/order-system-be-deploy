@@ -3,7 +3,8 @@ name: deploy to ec2 with jar
 on:
   push:
     branches:
-      - main
+      # docker 야믈 파일이 실행되도록 하기 위해 존재하지 않는 브랜치명으로 변경
+      - test
 
 jobs:
   build-and-deploy:
